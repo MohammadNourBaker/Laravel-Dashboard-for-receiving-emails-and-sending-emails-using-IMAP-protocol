@@ -1,0 +1,7 @@
+
+
+@props(['error'])
+
+
+
+{{ $error }}

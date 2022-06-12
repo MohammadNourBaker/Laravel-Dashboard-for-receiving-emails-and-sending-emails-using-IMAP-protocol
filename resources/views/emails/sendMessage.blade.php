@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+
+<div>
+    {{ $items['message'] }}
+</div>
