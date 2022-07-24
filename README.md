@@ -3,7 +3,7 @@ Custom Laravel dashboard. Real World Laravel 9x Dashboard. sending emails and re
 
 ## How to use
 1. git clone `https://github.com/MohammadNourBaker/Laravel-Dashboard-for-receiving-emails-and-sending-emails-using-IMAP-protocol.git`
-2. Copy `.env.example file to .env`
+2. Copy `.env.example` file to `.env` file
 3. Run `composer install`
 4. Run `php artisan key:generate`
 5. Open `.env` file and edit following code For send an Email using Outlook SMTP Server and receive an Email using Outlook IMAP Server
