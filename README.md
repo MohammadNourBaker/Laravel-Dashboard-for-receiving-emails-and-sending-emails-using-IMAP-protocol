@@ -32,5 +32,5 @@ IMAP_PROTOCOL=imap
 6. Run `php artisan serve`
 9. `http://localhost:8000/`
 
-`Note`: Turn ON `Less secure app access` in Google accounts has been disabled ! So you may not be able to add a Google account.
-        You can see this article `https://support.google.com/accounts/answer/6010255?authuser=1&hl=ar&authuser=1&visit_id=637906337071223822-2016862466&p=less-secure-apps&rd=1`
+`Note`: Turn ON `Less secure app access` in Google accounts has been disabled !
+        You can see this article `https://support.google.com/accounts/answer/6010255?authuser=1&hl=ar&authuser=1&visit_id=637906337071223822-2016862466&p=less-secure-apps&rd=1`  So you have to generate app passwords for gmail, you can read this article => `https://support.google.com/mail/answer/185833?hl=en-GB`
