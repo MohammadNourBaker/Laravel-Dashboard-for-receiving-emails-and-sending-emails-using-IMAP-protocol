@@ -1,4 +1,4 @@
-# Laravel-Dashboard-for-receiving-emails-and-sending-emails-using-IMAP-protocol
+# Laravel Dashboard for receiving emails and sending emails using IMAP protocol
 Custom Laravel dashboard. Real World Laravel 9x Dashboard. sending emails and receiving emails using IMAP protocol.
 
 ## How to use
